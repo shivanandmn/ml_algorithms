@@ -1,6 +1,6 @@
 
 
-**Difficulty Level :1**
+## Difficulty Level : 1 
 - [ ] 1. Use scikit-learn to demonstrate K-NN classification using the Iris dataset.
 - [ ] 2. Write code to add, subtract, and multiply two matrices without using external libraries.
 - [ ] 3. Implement a function to calculate the transpose of a given matrix.
@@ -11,7 +11,7 @@
 - [ ] 8. Write Python code to calculate mean, median, and mode from a given list of numbers.
 
 
-**Difficulty Level :2**
+## Difficulty Level : 2 
 - [ ] 9. Given a dataset, apply feature scaling and run K-Means Clustering using scikit-learn.
 - [ ] 10. Create a Python script to visualize the results of K-Means Clustering on a 2D dataset.
 - [ ] 11. Write a Python function to identify the centroid of a new data point in an existing K-Means model.
@@ -32,7 +32,7 @@
 - [ ] 26. Write a Python function to check the gradients computed by a gradient descent algorithm.
 
 
-**Difficulty Level :3**
+## Difficulty Level : 3 
 - [ ] 27. Implement a basic K-Means Clustering algorithm from scratch using Python.
 - [ ] 28. Write a function in Python that determines the best value of k (number of clusters) using the Elbow Method.
 - [ ] 29. Script a program to compare the performance of different initialization methods for centroids.
@@ -75,7 +75,7 @@
 - [ ] 66. Experiment with different weight initializations and observe their impact on gradient descent optimization.
 
 
-**Difficulty Level :4**
+## Difficulty Level : 4 
 - [ ] 67. Implement a mini-batch K-Means clustering using Python.
 - [ ] 68. Create a multi-dimensional K-Means clustering example and visualize it using PCA for dimensionality reduction.
 - [ ] 69. Implement a LazyLearningClassifier in Python that uses K-NN under the hood.
@@ -103,7 +103,7 @@
 - [ ] 91. Implement and visualize the optimization path of the Adam optimizer vs. vanilla gradient descent.
 
 
-**Difficulty Level :5**
+## Difficulty Level : 5 
 - [ ] 92. Optimize a K-NN model in a large dataset using approximate nearest neighbors techniques like LSH or kd-trees.
 - [ ] 93. Write an algorithm to perform eigenvalue and eigenvector decomposition.
 - [ ] 94. Create a Python script to solve a system of linear equations using NumPy.
@@ -118,3 +118,8 @@
 - [ ] 103. Write a Python function that incorporates polynomial features into a regression model for better fit and analyzes the trade-off with model complexity.
 - [ ] 104. Modify a given t-SNE implementation to work more efficiently on a large-scale dataset.
 - [ ] 105. Build a Python class that implements an adaptive learning rate algorithm, like Adam or AdaGrad, from scratch.
+
+
+
+## reference
+- Problems Inspired from https://devinterview.io/questions/machine-learning-and-data-science

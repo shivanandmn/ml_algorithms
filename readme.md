@@ -4,7 +4,7 @@
 - [ ] 1. Use scikit-learn to demonstrate K-NN classification using the Iris dataset.
 - [ ] 2. Write code to add, subtract, and multiply two matrices without using external libraries.
 - [ ] 3. Implement a function to calculate the transpose of a given matrix.
-- [ ] 4. Implement a function to calculate the L2 norm of a vector.
+- [x] 4. Implement a function to calculate the L2 norm of a vector.
 - [ ] 5. Write a Python function that calculates the probability of rolling a sum of 'S' on two dice.
 - [ ] 6. Implement a function that simulates a biased coin flip n times and estimates the probability of heads.
 - [ ] 7. Simulate the Law of Large Numbers using Python: verify that as the number of coin tosses increases, the average of the results becomes closer to the expected value.
@@ -17,7 +17,7 @@
 - [ ] 11. Write a Python function to identify the centroid of a new data point in an existing K-Means model.
 - [ ] 12. Write a function that calculates the Gini impurity for a given dataset in a Decision Tree.
 - [ ] 13. Code a Support Vector Machine using scikit-learn to classify data from a toy dataset.
-- [ ] 14. Create a k-NN classifier in Python and test its performance on a sample dataset.
+- [ ] 14. 
 - [ ] 15. Implement a function for feature scaling and normalization in preparation for classification.
 - [ ] 16. Implement basic Gradient Descent to minimize a simple quadratic function.
 - [ ] 17. Develop a Python script that uses the Adam optimizer from a library like TensorFlow or PyTorch.
@@ -38,7 +38,7 @@
 - [ ] 29. Script a program to compare the performance of different initialization methods for centroids.
 - [ ] 30. Write code to compute the silhouette coefficient for evaluating the clustering quality.
 - [ ] 31. Using Pandas and Python, clean and prepare a real-world dataset for K-Means Clustering.
-- [ ] 32. Write a Python function to implement K-NN from scratch on a simple dataset.
+- [x] 32. Write a Python function to implement K-NN from scratch on a simple dataset.
 - [ ] 33. Create a Python script to visualize the decision boundary of K-NN on a 2D dataset.
 - [ ] 34. Implement a logistic regression model from scratch using Python.
 - [ ] 35. Develop a Python script that visualizes the decision boundary of a given classification model.

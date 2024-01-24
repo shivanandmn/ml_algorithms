@@ -17,7 +17,7 @@
 - [ ] 11. Write a Python function to identify the centroid of a new data point in an existing K-Means model.
 - [ ] 12. Write a function that calculates the Gini impurity for a given dataset in a Decision Tree.
 - [ ] 13. Code a Support Vector Machine using scikit-learn to classify data from a toy dataset.
-- [ ] 14. 
+- [X] 14. 
 - [ ] 15. Implement a function for feature scaling and normalization in preparation for classification.
 - [ ] 16. Implement basic Gradient Descent to minimize a simple quadratic function.
 - [ ] 17. Develop a Python script that uses the Adam optimizer from a library like TensorFlow or PyTorch.

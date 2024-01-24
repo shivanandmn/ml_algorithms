@@ -17,8 +17,8 @@
 - [ ] 11. Write a Python function to identify the centroid of a new data point in an existing K-Means model.
 - [ ] 12. Write a function that calculates the Gini impurity for a given dataset in a Decision Tree.
 - [ ] 13. Code a Support Vector Machine using scikit-learn to classify data from a toy dataset.
-- [X] 14. 
-- [ ] 15. Implement a function for feature scaling and normalization in preparation for classification.
+- [x] 14. 
+- [p] 15. Implement a function for feature scaling and normalization in preparation for classification.
 - [ ] 16. Implement basic Gradient Descent to minimize a simple quadratic function.
 - [ ] 17. Develop a Python script that uses the Adam optimizer from a library like TensorFlow or PyTorch.
 - [ ] 18. Code an SVM model in scikit-learn to classify text data using TF-IDF features.
@@ -79,8 +79,8 @@
 - [ ] 67. Implement a mini-batch K-Means clustering using Python.
 - [ ] 68. Create a multi-dimensional K-Means clustering example and visualize it using PCA for dimensionality reduction.
 - [ ] 69. Implement a LazyLearningClassifier in Python that uses K-NN under the hood.
-- [ ] 70. Develop a weighted K-NN algorithm in Python and test its performance against the standard K-NN.
-- [ ] 71. Given a dataset with time-series data, how would you apply K-NN for forecasting?
+- [x] 70. Develop a weighted K-NN algorithm in Python and test its performance against the standard K-NN.
+- [x] 71. Given a dataset with time-series data, how would you apply K-NN for forecasting?
 - [ ] 72. Use a Boosting algorithm to improve the accuracy of a weak classifier on a dataset.
 - [ ] 73. Write a function that showcases the difference between L1 and L2 regularization on a small dataset.
 - [ ] 74. Write a Python function that performs feature selection using Recursive Feature Elimination (RFE).
